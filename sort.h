@@ -1,0 +1,10 @@
+#ifndef SORT_H
+#define SORT_H
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+void bubble_sort(init *array, size_t size)
+
+#endif
